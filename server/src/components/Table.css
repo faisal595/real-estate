@@ -1,0 +1,53 @@
+.i1{
+    border-radius: 0 150px 150px 0;
+    height: 8vh;
+    width: 8vh;
+    margin-left: -4%;
+    margin-top: 17px;
+}
+.PPPID{
+    margin-right: 0%;
+    width: 30vh;
+    border-radius: 60px;
+}
+.a2{
+    display: flex;
+    width: 100%;
+}
+.btn3{
+    border-radius: 60px;
+    margin-left: 80vh;
+    width: 40vh;
+}
+.body{
+    width: 100%;
+    margin-left: 2%;
+    height:15vh;
+    background-color: #FAFBFC; 
+}
+.Table{
+    width: 100%;
+}
+.cell1{
+    color:#284E91;
+    display: flexbox;
+    width: 11%;
+    margin-right: 0%;
+}
+.cell{
+    display: flexbox;
+    width: 11%;
+    /* justify-content: space-between; */
+    /* padding: 2% */
+    margin-right: 0%;
+}
+.i3{
+    margin: 0%;
+    height: 2vh;
+    width: 3vh;
+}
+.i4{
+    margin: 0%;
+    height: 6vh;
+    width: 6vh; 
+}
